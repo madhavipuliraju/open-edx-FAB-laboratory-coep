@@ -1,0 +1,53 @@
+<problem display_name="Multiple Choice" markdown="1. CNC WOOD ROUTER HAS A&#10;( ) 1 Axis&#10;( ) 2 Axis&#10;(x) 3 Axis&#10;( ) 4 Axis&#10;&#10;2. MATERIAL USED FOR MILLING ON CNC WOOD ROUTER MACHINE IS&#10;( ) Wood&#10;( ) Plastic&#10;( ) Metal&#10;(x) All of the above&#10;&#10;3. FOR THROUGH PROFILE CUTTING OPERATION IN CNC WOOD ROUTER WHICH CUTTER IS PREFERABLE ?&#10;(x) Flat end mill Cutter&#10;( ) Ball Nose end mill cutter&#10;( ) V-Carve&#10;( ) All of the above&#10;&#10;4. END MILLING CUTTER HAS CUTTING EDGES ON&#10;(x) Side and bottom of the cutter&#10;( ) Only side of the cutter&#10;( ) Side and top of cutter&#10;( ) only at the bottom&#10;&#10;5. PROPER STEP OVER FOR END MILL CUTTER MUST BE&#10;( ) Greater than 50% of tool diameter&#10;(x) Less than 50% of tool diameter&#10;( ) Irrespective of tool diameter&#10;( ) Can't say">
+<p>1. CNC WOOD ROUTER HAS A</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">1 Axis</choice>
+    <choice correct="false">2 Axis</choice>
+    <choice correct="true">3 Axis</choice>
+    <choice correct="false">4 Axis</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. MATERIAL USED FOR MILLING ON CNC WOOD ROUTER MACHINE IS</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Wood</choice>
+    <choice correct="false">Plastic</choice>
+    <choice correct="false">Metal</choice>
+    <choice correct="true">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. FOR THROUGH PROFILE CUTTING OPERATION IN CNC WOOD ROUTER WHICH CUTTER IS PREFERABLE ?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Flat end mill Cutter</choice>
+    <choice correct="false">Ball Nose end mill cutter</choice>
+    <choice correct="false">V-Carve</choice>
+    <choice correct="false">All of the above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. END MILLING CUTTER HAS CUTTING EDGES ON</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Side and bottom of the cutter</choice>
+    <choice correct="false">Only side of the cutter</choice>
+    <choice correct="false">Side and top of cutter</choice>
+    <choice correct="false">only at the bottom</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. PROPER STEP OVER FOR END MILL CUTTER MUST BE</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Greater than 50% of tool diameter</choice>
+    <choice correct="true">Less than 50% of tool diameter</choice>
+    <choice correct="false">Irrespective of tool diameter</choice>
+    <choice correct="false">Can't say</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

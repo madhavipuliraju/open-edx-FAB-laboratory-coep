@@ -1,0 +1,53 @@
+<problem display_name="Multiple Choice" markdown="1. A Molding is a process in which….&#10;(x) Mold is filled with a liquid and hardens&#10;( ) Mold is filled with a solid and liquefied&#10;( ) Mold is unfilled with a liquid and does nothing&#10;( ) Mold is filled with a gas and vaporize&#10;&#10;2. Blow molding is a process in which only..&#10;( ) Solid plastic parts are formed&#10;(x) Only hollow plastic parts are formed&#10;( ) Only thin plastic sheets are formed&#10;( ) Is not a plastic molding process&#10;&#10;3. Molds of Injection molding is made from&#10;(x) Tool steel&#10;( ) Stainless steel&#10;( ) Aluminum&#10;( ) All of above&#10;&#10;4. In casting process molds are made up of&#10;(x) Sand&#10;( ) Steel&#10;( ) Wood&#10;( ) All of above&#10;&#10;5. In Rubber compound molding&#10;( ) Only Silicon compound is used&#10;( ) Only Rubber compound is used&#10;( ) Only Urethane compound is used&#10;(x) Both Rubber and urethane compound is used">
+<p>1. A Molding is a process in which….</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Mold is filled with a liquid and hardens</choice>
+    <choice correct="false">Mold is filled with a solid and liquefied</choice>
+    <choice correct="false">Mold is unfilled with a liquid and does nothing</choice>
+    <choice correct="false">Mold is filled with a gas and vaporize</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. Blow molding is a process in which only..</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Solid plastic parts are formed</choice>
+    <choice correct="true">Only hollow plastic parts are formed</choice>
+    <choice correct="false">Only thin plastic sheets are formed</choice>
+    <choice correct="false">Is not a plastic molding process</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. Molds of Injection molding is made from</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Tool steel</choice>
+    <choice correct="false">Stainless steel</choice>
+    <choice correct="false">Aluminum</choice>
+    <choice correct="false">All of above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4. In casting process molds are made up of</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Sand</choice>
+    <choice correct="false">Steel</choice>
+    <choice correct="false">Wood</choice>
+    <choice correct="false">All of above</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. In Rubber compound molding</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Only Silicon compound is used</choice>
+    <choice correct="false">Only Rubber compound is used</choice>
+    <choice correct="false">Only Urethane compound is used</choice>
+    <choice correct="true">Both Rubber and urethane compound is used</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>
