@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="1. THE DEFAULT SCAN DATA CAN BE EXPORTED IN THE FORMAT OF&#10;(x) STL&#10;( ) VRML&#10;( ) IGES&#10;( ) All of the above&#10;&#10;2. LOWER THE PITCH VALUE HIGHER WILL BE&#10;(x) Scanning time&#10;( ) Data point destiny&#10;( ) Data scanning accuracy&#10;( ) All of the above&#10;&#10;3. POINT CLOUD DATA GENERATED IS REPRESENTED IN THE FORM OF&#10;(x) Wire Frame model&#10;( ) Solid model&#10;( ) Surface model&#10;( ) All of the above&#10;&#10;4. THE SCANNER USED IN THIS EXPERIMENT IS&#10;(x) Contact Type&#10;( ) Non-Contact Type&#10;( ) Electron Beam Scanner&#10;( ) Laser Scanner&#10;&#10;5. APPLICATION OF 3D SCANNER&#10;(x) 0.499&#10;( ) 0.394&#10;( ) 0.299&#10;( ) 0.129">
+  <p>1. THE DEFAULT SCAN DATA CAN BE EXPORTED IN THE FORMAT OF</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">STL</choice>
+      <choice correct="false">VRML</choice>
+      <choice correct="false">IGES</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. LOWER THE PITCH VALUE HIGHER WILL BE</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Scanning time</choice>
+      <choice correct="false">Data point destiny</choice>
+      <choice correct="false">Data scanning accuracy</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. POINT CLOUD DATA GENERATED IS REPRESENTED IN THE FORM OF</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Wire Frame model</choice>
+      <choice correct="false">Solid model</choice>
+      <choice correct="false">Surface model</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. THE SCANNER USED IN THIS EXPERIMENT IS</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Contact Type</choice>
+      <choice correct="false">Non-Contact Type</choice>
+      <choice correct="false">Electron Beam Scanner</choice>
+      <choice correct="false">Laser Scanner</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. APPLICATION OF 3D SCANNER</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">0.499</choice>
+      <choice correct="false">0.394</choice>
+      <choice correct="false">0.299</choice>
+      <choice correct="false">0.129</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

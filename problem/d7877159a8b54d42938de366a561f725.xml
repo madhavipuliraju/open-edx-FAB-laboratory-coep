@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="1. Microcontroller is also known as&#10;( ) µC&#10;( ) MCU&#10;( ) UC&#10;(x) All of the above&#10;&#10;2. Out of Following _____ is Microcontroller&#10;( ) Capacitor&#10;( ) ATmini&#10;(x) ATtiny&#10;( ) Transistor&#10;&#10;3. IC acronym of _____&#10;(x) Integrated Circuit&#10;( ) Interchange code&#10;( ) Interchangeable core&#10;( ) Can't say&#10;&#10;4. Microcontroller can be programmed using ___ Language.&#10;(x) 'C' or 'Assembly'&#10;( ) Java&#10;( ) Java Script&#10;( ) All of the Above&#10;&#10;5. Microcontroller need a __ vtg Power supply&#10;( ) 1.5 Vtg&#10;(x) 5 Vtg&#10;( ) 9 Vtg&#10;( ) 12 Vtg">
+  <p>1. Microcontroller is also known as</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">µC</choice>
+      <choice correct="false">MCU</choice>
+      <choice correct="false">UC</choice>
+      <choice correct="true">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Out of Following _____ is Microcontroller</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Capacitor</choice>
+      <choice correct="false">ATmini</choice>
+      <choice correct="true">ATtiny</choice>
+      <choice correct="false">Transistor</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. IC acronym of _____</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Integrated Circuit</choice>
+      <choice correct="false">Interchange code</choice>
+      <choice correct="false">Interchangeable core</choice>
+      <choice correct="false">Can't say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. Microcontroller can be programmed using ___ Language.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">'C' or 'Assembly'</choice>
+      <choice correct="false">Java</choice>
+      <choice correct="false">Java Script</choice>
+      <choice correct="false">All of the Above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Microcontroller need a __ vtg Power supply</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1.5 Vtg</choice>
+      <choice correct="true">5 Vtg</choice>
+      <choice correct="false">9 Vtg</choice>
+      <choice correct="false">12 Vtg</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
