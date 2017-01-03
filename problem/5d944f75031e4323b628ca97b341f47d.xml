@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="1. WHAT AMONG THE NC OPERATIONS GIVEN BELOW IS CONTINUOUS PATH OPERATION ?&#10;( ) Drilling&#10;( ) Punching in Metal Sheet&#10;(x) Milling&#10;( ) All of the above&#10;&#10;2. A BLOCK OF INFORMATION IN NC PROGRAM MEANS&#10;( ) One row on tape&#10;( ) One complete program for a job&#10;(x) One complete Instruction&#10;( ) One complete Statement&#10;&#10;3. IN 3D MACHINING SURFACES ARE TO BE CUT LIE ON&#10;(x) Three plane&#10;( ) Two plane&#10;( ) One plane&#10;( ) Two and Half plane&#10;&#10;4. BALL ENF MILLING CUTTER IS PREFERRED IN 3D MACHINING INSTREAD OF SLOT DRILLS OR END MILLS FOR&#10;(x) 3D Finish machining&#10;( ) 3D Rough machining&#10;( ) Drilling&#10;( ) All of the above&#10;&#10;5. IN CNC MACHINE TOOL, ENCODER IS USED TO SENSE AND CONTROL&#10;( ) Table velocity&#10;(x) Table Position&#10;( ) Spindle Speed&#10;( ) All Of the Above">
+  <p>1. WHAT AMONG THE NC OPERATIONS GIVEN BELOW IS CONTINUOUS PATH OPERATION ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Drilling</choice>
+      <choice correct="false">Punching in Metal Sheet</choice>
+      <choice correct="true">Milling</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. A BLOCK OF INFORMATION IN NC PROGRAM MEANS</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">One row on tape</choice>
+      <choice correct="false">One complete program for a job</choice>
+      <choice correct="true">One complete Instruction</choice>
+      <choice correct="false">One complete Statement</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. IN 3D MACHINING SURFACES ARE TO BE CUT LIE ON</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Three plane</choice>
+      <choice correct="false">Two plane</choice>
+      <choice correct="false">One plane</choice>
+      <choice correct="false">Two and Half plane</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. BALL ENF MILLING CUTTER IS PREFERRED IN 3D MACHINING INSTREAD OF SLOT DRILLS OR END MILLS FOR</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">3D Finish machining</choice>
+      <choice correct="false">3D Rough machining</choice>
+      <choice correct="false">Drilling</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. IN CNC MACHINE TOOL, ENCODER IS USED TO SENSE AND CONTROL</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Table velocity</choice>
+      <choice correct="true">Table Position</choice>
+      <choice correct="false">Spindle Speed</choice>
+      <choice correct="false">All Of the Above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>

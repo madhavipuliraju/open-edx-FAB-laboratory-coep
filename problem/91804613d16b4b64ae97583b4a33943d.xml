@@ -1,0 +1,47 @@
+<problem display_name="Multiple Choice" markdown="1. CNC DESKTOP MILLING MACHINE HAS&#10;( ) 1 Axis&#10;( ) 2 Axis&#10;(x) 3 Axis&#10;( ) 4 Axis&#10;&#10;2. MATERIAL USED FOR MILLING ON DESKTOP MINIMILL MACHINE IS&#10;( ) Modeling Wax&#10;( ) Wood&#10;( ) Brass&#10;(x) All of the Above&#10;&#10;3. IN 3D MACHINING SLOT DRILLS OR MILLS ARE PREFERRED FOR&#10;(x) Roughing Operation&#10;( ) Finishing Operation&#10;( ) Drilling Operation&#10;( ) All of the above&#10;&#10;4. ACTUAL MACHINING TIME IN 3D MACHINING WITH MULTI DIRECTIONAL PROFILE CAN BE REDUCED BY&#10;(x) Reducing the acceleration/Declaration of tool&#10;( ) Increasing the feed Rate&#10;( ) Increasing the spindle speed&#10;( ) All of the above&#10;&#10;5. PREFERABLE FEED RATE IN ROUGHING OPERATION COMPARE TO FINISHING OPERATION IS&#10;( ) Less&#10;(x) More&#10;( ) Equal&#10;( ) All of the above">
+  <p>1. CNC DESKTOP MILLING MACHINE HAS</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1 Axis</choice>
+      <choice correct="false">2 Axis</choice>
+      <choice correct="true">3 Axis</choice>
+      <choice correct="false">4 Axis</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. MATERIAL USED FOR MILLING ON DESKTOP MINIMILL MACHINE IS</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Modeling Wax</choice>
+      <choice correct="false">Wood</choice>
+      <choice correct="false">Brass</choice>
+      <choice correct="true">All of the Above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. IN 3D MACHINING SLOT DRILLS OR MILLS ARE PREFERRED FOR</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Roughing Operation</choice>
+      <choice correct="false">Finishing Operation</choice>
+      <choice correct="false">Drilling Operation</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. ACTUAL MACHINING TIME IN 3D MACHINING WITH MULTI DIRECTIONAL PROFILE CAN BE REDUCED BY</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Reducing the acceleration/Declaration of tool</choice>
+      <choice correct="false">Increasing the feed Rate</choice>
+      <choice correct="false">Increasing the spindle speed</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. PREFERABLE FEED RATE IN ROUGHING OPERATION COMPARE TO FINISHING OPERATION IS</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Less</choice>
+      <choice correct="true">More</choice>
+      <choice correct="false">Equal</choice>
+      <choice correct="false">All of the above</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+</problem>
