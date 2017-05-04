@@ -12,7 +12,7 @@
         }, 
         "displayname": "3D_Pump_from_PowerSHAPE.jpg", 
         "filename": "asset-v1:COE-Pune+MECH18+Anytime+type@asset+block@3D_Pump_from_PowerSHAPE.jpg", 
-        "import_path": null, 
+        "import_path": "3D_Pump_from_PowerSHAPE.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
@@ -36,7 +36,7 @@
         }, 
         "displayname": "fab.jpg", 
         "filename": "asset-v1:COE-Pune+MECH18+Anytime+type@asset+block@fab.jpg", 
-        "import_path": null, 
+        "import_path": "fab.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
