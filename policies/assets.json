@@ -3,21 +3,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "MECH18", 
+            "course": "mech18", 
             "name": "3D_Pump_from_PowerSHAPE.jpg", 
-            "org": "COE-Pune", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "3D_Pump_from_PowerSHAPE.jpg", 
-        "filename": "asset-v1:COE-Pune+MECH18+Anytime+type@asset+block@3D_Pump_from_PowerSHAPE.jpg", 
+        "filename": "asset-v1:Virtual-Labs+mech18+Anytime+type@asset+block@3D_Pump_from_PowerSHAPE.jpg", 
         "import_path": "3D_Pump_from_PowerSHAPE.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "COE-Pune", 
-            "MECH18", 
+            "Virtual-Labs", 
+            "mech18", 
             "thumbnail", 
             "3D_Pump_from_PowerSHAPE.jpg", 
             null
@@ -27,21 +27,21 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "MECH18", 
+            "course": "mech18", 
             "name": "fab.jpg", 
-            "org": "COE-Pune", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "fab.jpg", 
-        "filename": "asset-v1:COE-Pune+MECH18+Anytime+type@asset+block@fab.jpg", 
+        "filename": "asset-v1:Virtual-Labs+mech18+Anytime+type@asset+block@fab.jpg", 
         "import_path": "fab.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "COE-Pune", 
-            "MECH18", 
+            "Virtual-Labs", 
+            "mech18", 
             "thumbnail", 
             "fab.jpg", 
             null
