@@ -3,7 +3,7 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "mech18", 
+            "course": "cse30", 
             "name": "3D_Pump_from_PowerSHAPE.jpg", 
             "org": "Virtual-Labs", 
             "revision": null, 
@@ -11,15 +11,39 @@
             "tag": "c4x"
         }, 
         "displayname": "3D_Pump_from_PowerSHAPE.jpg", 
-        "filename": "asset-v1:Virtual-Labs+mech18+Anytime+type@asset+block@3D_Pump_from_PowerSHAPE.jpg", 
+        "filename": "asset-v1:Virtual-Labs+cse30+Anytime+type@asset+block@3D_Pump_from_PowerSHAPE.jpg", 
         "import_path": "3D_Pump_from_PowerSHAPE.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "Virtual-Labs", 
-            "mech18", 
+            "cse30", 
             "thumbnail", 
             "3D_Pump_from_PowerSHAPE.jpg", 
+            null
+        ]
+    }, 
+    "analogCMOSVLSI.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "cse30", 
+            "name": "analogCMOSVLSI.jpg", 
+            "org": "Virtual-Labs", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "analogCMOSVLSI.jpg", 
+        "filename": "asset-v1:Virtual-Labs+cse30+Anytime+type@asset+block@analogCMOSVLSI.jpg", 
+        "import_path": "analogCMOSVLSI.jpg", 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "Virtual-Labs", 
+            "cse30", 
+            "thumbnail", 
+            "analogCMOSVLSI.jpg", 
             null
         ]
     }, 
@@ -27,7 +51,7 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "mech18", 
+            "course": "cse30", 
             "name": "fab.jpg", 
             "org": "Virtual-Labs", 
             "revision": null, 
@@ -35,13 +59,13 @@
             "tag": "c4x"
         }, 
         "displayname": "fab.jpg", 
-        "filename": "asset-v1:Virtual-Labs+mech18+Anytime+type@asset+block@fab.jpg", 
+        "filename": "asset-v1:Virtual-Labs+cse30+Anytime+type@asset+block@fab.jpg", 
         "import_path": "fab.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "Virtual-Labs", 
-            "mech18", 
+            "cse30", 
             "thumbnail", 
             "fab.jpg", 
             null
